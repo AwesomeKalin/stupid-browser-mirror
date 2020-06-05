@@ -1,0 +1,20 @@
+{
+  "name": "stupid-browser",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/awesomekalin55/stupid-browser.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/awesomekalin55/stupid-browser/issues"
+  },
+  "homepage": "https://gitlab.com/awesomekalin55/stupid-browser#readme"
+}
