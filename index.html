@@ -1,19 +1,15 @@
 <!DOCTYPE html>
-<<!DOCTYPE html>
-<html lang="en" dir="ltr">
+<html>
   <head>
-    <meta charset="utf-8">
+    <script type="module" src="https://unpkg.com/x-frame-bypass"></script>
+    <script type="module" src="https://unpkg.com/x-frame-bypass"></script>
     <title>Stupid Browser</title>
-    <<script type="text/javascript">
-      function changeSite(){
-  document.getElementById("browser").src = document.getElementById("website").value;
-}
-    </script>
   </head>
   <body>
     <input type="text" id="website"></input>
-<button type="button" onClick="changeSite();">GO!!!!!!!</button>
+<button type="button" onClick="document.getElementById('browser').src = document.getElementById('website').value">GO!!!!!!!</button>
 <iframe
+    is="x-frame-bypass"
     id="browser"
     src="about:blank"
     height="800"
