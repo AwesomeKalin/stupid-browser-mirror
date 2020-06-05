@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://gitlab.com/awesomekalin55/stupid-browser/issues"
   },
-  "homepage": "https://gitlab.com/awesomekalin55/stupid-browser#readme"
+  "homepage": "https://gitlab.com/awesomekalin55/stupid-browser#readme",
+  "devDependencies": {
+    "electron": "^9.0.2"
+  }
 }
