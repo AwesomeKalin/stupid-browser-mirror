@@ -19,6 +19,6 @@
   },
   "homepage": "https://gitlab.com/awesomekalin55/stupid-browser#readme",
   "devDependencies": {
-    "electron": "^13.6.6"
+    "electron": "^18.3.7"
   }
 }
